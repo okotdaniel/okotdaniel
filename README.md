@@ -47,8 +47,7 @@ I am passionate about giving life and functionality to beautiful designs and dri
 ### - Github: [okotdaniel](https://github.com/MarilenaRoque)
 ### - Twitter: [@okotdaniels](https://twitter.com/okotdaniels)
 ### - Linkedin: [okotdaniel](https://www.linkedin.com/in/okotdaniel/)
-### - :mailbox: webmaster@okotdaniel.com 
-### - Personal Portfolio [Check it out!](https://sad-poitras-b84cd5.netlify.app/portfolio)
+
 
  Constructive feedbacks about my code are always welcome too. :smiley:
  
