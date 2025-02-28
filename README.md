@@ -8,7 +8,7 @@ I am passionate about giving life and functionality to beautiful designs and dri
 
  <hr>
  <ul>
-<li> :teacher:  I’m daily working on <a href="https://sad-poitras-b84cd5.netlify.app/portfolio"> Personal Portfolio </a> to improve my skills while developing projects in OOP concepts.</li>
+<!-- <li> :teacher:  I’m daily working on <a href="https://sad-poitras-b84cd5.netlify.app/portfolio"> Personal Portfolio </a> to improve my skills while developing projects in OOP concepts.</li> -->
 <li> :man: Currently I am getting hands on python and graphql. </li>
  </ul>
 
