@@ -20,7 +20,6 @@ Based in Kampala, Uganda. Passionate about building scalable web applications an
 
 ## 🚀 Projects  
 Here are some of the projects I’m most proud of:  
-- **Microservices Course Docs**: A production-ready microservices app (Django, FastAPI, RabbitMQ, Docker, Kubernetes).  
 - **Kids Games App**: A fun TS/JS game suite built for educational purposes.  
 - **Amazon Clone**: E-commerce clone using TypeScript to simulate real-world shopping workflows.  
 - **Python DI**: Fork / contribution to a dependency-injector library.
@@ -30,13 +29,11 @@ Here are some of the projects I’m most proud of:
 ---
 
 ## 📫 Let’s Connect  
-- **LinkedIn:** [your-linkedin]  
-- **Twitter:** [@okotdaniels]  
-- **Email:** [your-email]  
+- **LinkedIn:** https://linkedin.com/in/okotdaniel
+- **Twitter:** x.com/okotdaniels
+- **Email:** okotdanz@gmail.com 
 
 I’m **open to full-time roles or freelance projects**, and always excited to collaborate or get feedback on my work.
 
 ---
 
-## 📈 GitHub Stats  
-![Your GitHub stats card]  
